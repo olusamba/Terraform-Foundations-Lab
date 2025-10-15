@@ -1,0 +1,20 @@
+cat <<EOF > .gitignore
+# Terraform local state
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
+*.log
+
+# Sensitive files
+*.pem
+*.key
+*.crt
+
+# macOS system files
+.DS_Store
+
+# VSCode
+.vscode/
+EOF
