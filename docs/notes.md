@@ -27,3 +27,4 @@ terraform destroy → tear down all resources
 ## Ideas / To-Do
 - Add a simple IAM module in Week 2.  
 - Integrate a GitHub Actions CI/CD pipeline in a future lab.
+- 2025-10-16 23:55 – Reviewed Terraform basics.
