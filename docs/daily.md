@@ -41,3 +41,4 @@ terraform apply
 🎯 **Goal:** Final documentation + GitHub upload  
 💻 **Result:** Documentation completed and code versioned.  
 💡 **Lesson:** Clear documentation is the best form of proof-of-work.
+- 2025-10-23 09:30 – Updated Terraform lab structure and reviewed IAM module design.
