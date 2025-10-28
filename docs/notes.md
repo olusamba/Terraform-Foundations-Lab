@@ -29,3 +29,4 @@ terraform destroy → tear down all resources
 - Integrate a GitHub Actions CI/CD pipeline in a future lab.
 - 2025-10-16 23:55 – Reviewed Terraform basics.
 - 2025-10-19 22:34 – Reviewed IAM automation concepts and Terraform registry.
+- 2025-10-28 17:20 – Practiced Terraform commands and Git workflow review.
