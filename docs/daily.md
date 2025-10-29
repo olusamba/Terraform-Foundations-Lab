@@ -43,3 +43,4 @@ terraform apply
 💡 **Lesson:** Clear documentation is the best form of proof-of-work.
 - 2025-10-23 09:30 – Updated Terraform lab structure and reviewed IAM module design.
 - 2025-10-23 09:30 – Updated Terraform lab structure and reviewed IAM module design.
+- 2025-10-29 21:52 – updated notes for Terraform lab
