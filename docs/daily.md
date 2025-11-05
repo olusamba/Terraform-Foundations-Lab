@@ -45,3 +45,4 @@ terraform apply
 - 2025-10-23 09:30 – Updated Terraform lab structure and reviewed IAM module design.
 - 2025-10-29 21:52 – updated notes for Terraform lab
 - 2025-10-31 23:49 – updated notes for Terraform lab
+- 2025-11-05 00:03 – updated notes for Terraform lab
